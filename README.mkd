@@ -17,6 +17,9 @@ Scripts:      decalar by each scripts
     wget
     gksu or gnomesu or kdesu
 
+
+    or install(Ubuntu 11.10) by command : sudo apt-get install git python-setuptools python-distutils-extra python-vte gettext zenity python-dev python-gtk2 intltool wget gksu 
+
 ## Install & Usage
 
 currently, please useing python setuptools to install.
